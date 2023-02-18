@@ -1,7 +1,7 @@
 # responsive ski.js starter
 
 ## Description
-Contains starter code to build resizeable ski.js programs ⚡
+Contains starter code to build resizable ski.js programs ⚡
 
 ## Instructions
 1. Fork and clone this repository.
